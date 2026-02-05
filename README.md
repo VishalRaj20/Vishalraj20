@@ -58,7 +58,7 @@ I’ve worked on real-world systems during my internships at **SBPDCL** and **II
 
 - 💼 **Software Engineering Intern @ SBPDCL** — Built a production-grade Car Marketplace (Supabase, Clerk, Gemini API)
 - 🧪 **Research Intern @ IIT Bhubaneswar (Microsoft-supported)** — Travel Planning System
-- 🧠 Solved **500+ DSA problems** (LeetCode, GFG)
+- 🧠 Solved **600+ DSA problems** (LeetCode, GFG)
 - 🚀 Built: Realtime Chat App, BookStore App, NLP Systems, LLM-integrated tools
 - 🏅 Top 10 Finalist — **Inspira 24-Hour Hackathon 2025**
 
