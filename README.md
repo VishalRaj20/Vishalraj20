@@ -1,7 +1,7 @@
 # 💫 About Me
 
 Hi, I'm **Vishal Raj** 👋  
-A **Backend-leaning Software Development Engineer** with strong fundamentals in **Data Structures & Algorithms (500+ problems solved)** and hands-on experience building **production-grade, scalable web applications**.
+A **Backend-leaning Software Development Engineer** with strong fundamentals in **Data Structures & Algorithms (600+ problems solved)** and hands-on experience building **production-grade, scalable web applications**.
 
 I specialize in:
 - ⚙️ Backend development with **Node.js, Express, REST APIs**
